@@ -38,7 +38,7 @@
 |3|[Анализ взаимодействия пользователей с карточками Яндекс.Дзен](https://github.com/aksyutenko/data_analyst_portfolio/tree/main/zen)|Данные для анализа загружены с сервера и проанализированы с помощью дашборда. Подготовлена презентация с ответами на вопросы менеджмента.|завершен|pandas</br>SQL</br>tableau|
 
 ## Сертификаты
-- [Аналитик данных](https://disk.yandex.ru/i/k8ZLHXZzivXPKQ). Яндекс Практикум, август 2022
+- [Аналитик данных](https://disk.yandex.ru/i/k8ZLHXZzivXPKQ). Яндекс Практикум, август 2025
 
 ## Контакты
 - [Telegram](https://t.me/aksyutenko)
