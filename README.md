@@ -41,5 +41,4 @@
 - [Аналитик данных](https://disk.yandex.ru/i/k8ZLHXZzivXPKQ). Яндекс Практикум, август 2022
 
 ## Контакты
-- [LinkedIn](https://www.linkedin.com/in/aksyutenko)
 - [Telegram](https://t.me/aksyutenko)
